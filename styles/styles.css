@@ -78,7 +78,7 @@ small {
 .main__container {
   width: 100vw;
   height: 100vh;
-  background-color: var(--grayish-blue);
+  background-color: var(--light-grayish-blue);
 }
 
 .hero__section {
@@ -99,7 +99,7 @@ small {
   border-radius: 1rem;
   width: 100%;
   max-width: 30rem;
-  background-color: var(--light-grayish-blue);
+  background-color: white;
 }
 
 .hero__section__content_img {
